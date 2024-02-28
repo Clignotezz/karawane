@@ -1,2 +1,2 @@
 # karawane
-Sketch p%.js sound poetry
+Sketch p5.js sound poetry
